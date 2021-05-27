@@ -14,7 +14,7 @@
     "local-echo": "wavesoft/local-echo",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.3",
+    "react-scripts": "4.0.0",
     "xterm": "^4.8.1",
     "xterm-addon-fit": "^0.4.0",
     "xterm-dfuzr": "^4.9.1",
